@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. Clone the project repository.
-2. Navigate to the client directory within the project: `cd client`.
+2. Navigate to the ITXI directory within the project: `cd ITXI`.
 3. Install npm dependencies by running: `npm install`.
 4. Start the development server with: `npm start`.
 
